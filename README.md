@@ -1,1 +1,1 @@
-# SpamScript
+https://stuiterveer.com/scripts/SpamScript/
